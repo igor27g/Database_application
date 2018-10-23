@@ -9,7 +9,7 @@
 
 ## General info
 This project containts both front-end and back-end code for a footballers app with graphic layout built with Tkinter library. In this app, you can check name, age, position and club where footballer plays.
-I use Python and MySQl.
+I use Python and MySQL.
 
 
 ## Screenshots
