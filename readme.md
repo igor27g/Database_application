@@ -13,8 +13,8 @@ I use Python and MySQl.
 
 
 ## Screenshots
-![Example screenshot](./screenshoots/screenshoot1.png);
-![Example screenshot](./screenshoots/screenshoot2.png);
+![Example screenshot](./screenshoots/screenshoot1.png)
+![Example screenshot](./screenshoots/screenshoot2.png)
 
 ## Technologies
 * Python
